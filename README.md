@@ -31,7 +31,7 @@ interests: [AI/ML, Web Development, Cryptography, Mathematical Modeling]
 
 ---
 
-## 🧠 AI & Machine Learning
+## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="28"> AI & Machine Learning
 
 <div align="center">
 
@@ -39,33 +39,40 @@ interests: [AI/ML, Web Development, Cryptography, Mathematical Modeling]
 <tr>
 <td align="center" width="33%">
 
-**🔬 Research**
+<img src="https://img.shields.io/badge/-%F0%9F%94%AC%20RESEARCH-A855F7?style=for-the-badge" />
 <br><br>
-Deep Learning<br>
-Mathematical Modeling<br>
-Stock Price Prediction (NSPPM)<br>
-Gradient Descent Optimization
-
-</td>
-<td align="center" width="33%">
-
-**🤖 Certifications**
-<br><br>
-Google AI Professional<br>
-AI Fundamentals<br>
-AI for Data Analysis<br>
-AI for App Building
-
-</td>
-<td align="center" width="33%">
-
-**🏆 Awards**
-<br><br>
-Ministry of Science and ICT<br>
-Minister Award ×2<br>
+<img src="https://img.shields.io/badge/Deep_Learning-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
 <br>
-<img src="https://img.shields.io/badge/Minister_Award-FFD700?style=flat-square&logo=star&logoColor=black"/>
-<img src="https://img.shields.io/badge/Minister_Award-FFD700?style=flat-square&logo=star&logoColor=black"/>
+<img src="https://img.shields.io/badge/Mathematical_Modeling-0D1117?style=flat-square&logo=wolfram&logoColor=DD1100" />
+<br>
+<img src="https://img.shields.io/badge/Stock_Prediction_(NSPPM)-0D1117?style=flat-square&logo=chartdotjs&logoColor=FF6384" />
+<br>
+<img src="https://img.shields.io/badge/Gradient_Descent_Opt.-0D1117?style=flat-square&logo=scipy&logoColor=8CAAE6" />
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/-%F0%9F%A4%96%20CERTIFICATIONS-00D4FF?style=for-the-badge" />
+<br><br>
+<img src="https://img.shields.io/badge/Google_AI_Professional-4285F4?style=flat-square&logo=google&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/AI_Fundamentals-34A853?style=flat-square&logo=google&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/AI_for_Data_Analysis-FBBC04?style=flat-square&logo=google&logoColor=black" />
+<br>
+<img src="https://img.shields.io/badge/AI_for_App_Building-EA4335?style=flat-square&logo=google&logoColor=white" />
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/-%F0%9F%8F%86%20AWARDS-FF3CAC?style=for-the-badge" />
+<br><br>
+<img src="https://img.shields.io/badge/🇰🇷_Ministry_of_Science_&_ICT-0D1117?style=flat-square" />
+<br>
+<img src="https://img.shields.io/badge/⭐_Minister_Award-FFD700?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/⭐_Minister_Award-FFD700?style=flat-square&logoColor=black" />
+<br><br>
+<img src="https://img.shields.io/badge/DOUBLE_WINNER-FFD700?style=for-the-badge&logo=starship&logoColor=black" />
 
 </td>
 </tr>
