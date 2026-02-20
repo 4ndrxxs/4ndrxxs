@@ -7,6 +7,7 @@
 <br>
 
 <a href="https://seojuwon.com"><img src="https://img.shields.io/badge/Portfolio-seojuwon.com-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:seo@seojuwon.com"><img src="https://img.shields.io/badge/Email-Contact_Me-FF3CAC?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/4ndrxxs"><img src="https://img.shields.io/badge/GitHub-4ndrxxs-00D4FF?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=4ndrxxs&color=FF3CAC&style=for-the-badge&label=VISITORS"/>
 
