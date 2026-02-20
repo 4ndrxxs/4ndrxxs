@@ -54,6 +54,8 @@ interests: [AI/ML, Web Development, Cryptography, Mathematical Modeling]
 
 <img src="https://img.shields.io/badge/-%F0%9F%A4%96%20CERTIFICATIONS-00D4FF?style=for-the-badge" />
 <br><br>
+<img src="./assets/google-ai-badge.webp" width="120" />
+<br><br>
 <img src="https://img.shields.io/badge/Google_AI_Professional-4285F4?style=flat-square&logo=google&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/AI_Fundamentals-34A853?style=flat-square&logo=google&logoColor=white" />
