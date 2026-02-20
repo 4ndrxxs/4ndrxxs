@@ -114,26 +114,21 @@ Minister Award ×2<br>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=4ndrxxs&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=4ndrxxs&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00D4FF&text_color=F0F0FF&ring_color=FF3CAC&include_all_commits=true&count_private=true&cache_seconds=86400" width="49%" />
-<img src="https://streak-stats.demolab.com?user=4ndrxxs&hide_border=true&background=0D1117&ring=A855F7&fire=FF3CAC&currStreakLabel=00D4FF&sideLabels=A855F7&currStreakNum=F0F0FF&sideNums=F0F0FF&dates=7878A0&stroke=7878A0" width="49%" />
+<img src="./profile-summary-card-output/0-profile-details.svg" width="100%" />
+
+<img src="./profile-summary-card-output/3-stats.svg" width="49%" />
+<img src="./profile-summary-card-output/4-productive-time.svg" width="49%" />
+
+<img src="./profile-summary-card-output/1-repos-per-language.svg" width="49%" />
+<img src="./profile-summary-card-output/2-most-commit-language.svg" width="49%" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndrxxs&layout=donut&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=F0F0FF&langs_count=8&cache_seconds=86400" width="38%" />
+<img src="https://streak-stats.demolab.com?user=4ndrxxs&hide_border=true&background=0D1117&ring=A855F7&fire=FF3CAC&currStreakLabel=00D4FF&sideLabels=A855F7&currStreakNum=F0F0FF&sideNums=F0F0FF&dates=7878A0&stroke=7878A0" width="55%" />
 
 </div>
 
@@ -159,11 +154,14 @@ Minister Award ×2<br>
 
 <div align="center">
 
-[![seojuwon](https://github-readme-stats.vercel.app/api/pin/?username=4ndrxxs&repo=seojuwon&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00D4FF&text_color=F0F0FF&cache_seconds=86400)](https://github.com/4ndrxxs/seojuwon)
-[![wavecrypt](https://github-readme-stats.vercel.app/api/pin/?username=4ndrxxs&repo=wavecrypt&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00D4FF&text_color=F0F0FF&cache_seconds=86400)](https://github.com/4ndrxxs/wavecrypt)
-
-[![HBscore](https://github-readme-stats.vercel.app/api/pin/?username=4ndrxxs&repo=HBscore&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00D4FF&text_color=F0F0FF&cache_seconds=86400)](https://github.com/4ndrxxs/HBscore)
-[![GBS-Gradient_descent_and_Deep_Learning](https://github-readme-stats.vercel.app/api/pin/?username=4ndrxxs&repo=GBS-Gradient_descent_and_Deep_Learning&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00D4FF&text_color=F0F0FF&cache_seconds=86400)](https://github.com/4ndrxxs/GBS-Gradient_descent_and_Deep_Learning)
+| Project | Description | Tech |
+|:-------:|:-----------:|:----:|
+| [**seojuwon.com**](https://github.com/4ndrxxs/seojuwon) | Cinematic personal portfolio with shooting stars & parallax | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**wavecrypt**](https://github.com/4ndrxxs/wavecrypt) | Geo-Locked Identity Generation from Wave Entropy | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**HBscore**](https://github.com/4ndrxxs/HBscore) | Premium Academy Score Management System | ![RN](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| [**Deep Learning**](https://github.com/4ndrxxs/GBS-Gradient_descent_and_Deep_Learning) | Gradient Descent & Deep Learning Research | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**TessellationGrid**](https://github.com/4ndrxxs/TessellationGrid) | Tessellation Visualization for Research | ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**NSPPM**](https://github.com/4ndrxxs/RNE-NSPPM) | New Stock Price Prediction Model | 📊 Math Modeling |
 
 </div>
 
