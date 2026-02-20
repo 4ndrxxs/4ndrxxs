@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00D4FF,50:A855F7,100:FF3CAC&height=300&section=header&text=Juwon%20Seo&fontSize=60&fontColor=FFFFFF&fontAlignY=45&desc=%E2%9A%A1%20AI%20Engineer%20%C3%97%20Creative%20Developer%20%E2%9A%A1&descSize=18&descAlignY=68&animation=fadeIn&stroke=A855F7&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:A855F7,100:FF3CAC&height=250&section=header&text=Juwon%20Seo&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=AI%20Engineer%20%C3%97%20Creative%20Developer&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 <br>
 
 <a href="https://seojuwon.com"><img src="https://img.shields.io/badge/Portfolio-seojuwon.com-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="mailto:"><img src="https://img.shields.io/badge/GitHub-4ndrxxs-00D4FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/4ndrxxs"><img src="https://img.shields.io/badge/GitHub-4ndrxxs-00D4FF?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=4ndrxxs&color=FF3CAC&style=for-the-badge&label=VISITORS"/>
 
 </div>
@@ -16,12 +16,10 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndrxxs&layout=donut&theme=transparent&hide_border=true&title_color=A855F7&text_color=F0F0FF&langs_count=6&size_weight=0.5&count_weight=0.5" width="320" />
-
 ```python
 class JuwonSeo:
     def __init__(self):
-        self.name = "Juwon Seo (서주원)"
+        self.name = "Juwon Seo"
         self.school = "Gyeonggi Buk Science High School"
         self.role = "AI Engineer × Creative Developer"
         self.portfolio = "https://seojuwon.com"
@@ -29,9 +27,9 @@ class JuwonSeo:
     @property
     def achievements(self):
         return [
-            "🏆 과학기술정보통신부 장관상 2회 수상",
+            "🏆 Ministry of Science and ICT Award ×2",
             "🤖 Google AI Professional Certificate",
-            "🎓 경기북과학고등학교 재학중",
+            "🎓 Gyeonggi Buk Science High School Student",
         ]
 
     @property
@@ -43,8 +41,6 @@ class JuwonSeo:
             "Mathematical Modeling",
         ]
 ```
-
-<br clear="both">
 
 ---
 
@@ -78,11 +74,11 @@ AI for App Building
 
 **🏆 Awards**
 <br><br>
-과학기술정보통신부<br>
-장관상 ×2<br>
+Ministry of Science and ICT<br>
+Minister Award ×2<br>
 <br>
-<img src="https://img.shields.io/badge/Minister_Award-FFD700?style=flat-square&logo=trophy&logoColor=black"/>
-<img src="https://img.shields.io/badge/Minister_Award-FFD700?style=flat-square&logo=trophy&logoColor=black"/>
+<img src="https://img.shields.io/badge/Minister_Award-FFD700?style=flat-square&logo=star&logoColor=black"/>
+<img src="https://img.shields.io/badge/Minister_Award-FFD700?style=flat-square&logo=star&logoColor=black"/>
 
 </td>
 </tr>
@@ -122,7 +118,7 @@ AI for App Building
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=4ndrxxs&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=4ndrxxs&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -132,8 +128,12 @@ AI for App Building
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=4ndrxxs&show_icons=true&theme=transparent&hide_border=true&title_color=A855F7&icon_color=00D4FF&text_color=F0F0FF&ring_color=FF3CAC&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://streak-stats.demolab.com?user=4ndrxxs&theme=transparent&hide_border=true&ring=A855F7&fire=FF3CAC&currStreakLabel=00D4FF&sideLabels=A855F7&currStreakNum=F0F0FF&sideNums=F0F0FF&dates=7878A0" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=4ndrxxs&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00D4FF&text_color=F0F0FF&ring_color=FF3CAC&include_all_commits=true&count_private=true&cache_seconds=86400" width="49%" />
+<img src="https://streak-stats.demolab.com?user=4ndrxxs&hide_border=true&background=0D1117&ring=A855F7&fire=FF3CAC&currStreakLabel=00D4FF&sideLabels=A855F7&currStreakNum=F0F0FF&sideNums=F0F0FF&dates=7878A0&stroke=7878A0" width="49%" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ndrxxs&layout=donut&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=F0F0FF&langs_count=8&cache_seconds=86400" width="38%" />
 
 </div>
 
@@ -141,7 +141,7 @@ AI for App Building
 
 ## 📈 Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=4ndrxxs&bg_color=00000000&color=A855F7&line=00D4FF&point=FF3CAC&area=true&area_color=A855F720&hide_border=true&custom_title=Contribution%20Timeline" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=4ndrxxs&bg_color=0D1117&color=A855F7&line=00D4FF&point=FF3CAC&area=true&area_color=A855F720&hide_border=true&custom_title=Contribution%20Timeline" width="100%" />
 
 ---
 
@@ -159,19 +159,11 @@ AI for App Building
 
 <div align="center">
 
-<a href="https://github.com/4ndrxxs/seojuwon">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=4ndrxxs&repo=seojuwon&theme=transparent&hide_border=true&title_color=A855F7&icon_color=00D4FF&text_color=F0F0FF" width="49%" />
-</a>
-<a href="https://github.com/4ndrxxs/wavecrypt">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=4ndrxxs&repo=wavecrypt&theme=transparent&hide_border=true&title_color=A855F7&icon_color=00D4FF&text_color=F0F0FF" width="49%" />
-</a>
+[![seojuwon](https://github-readme-stats.vercel.app/api/pin/?username=4ndrxxs&repo=seojuwon&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00D4FF&text_color=F0F0FF&cache_seconds=86400)](https://github.com/4ndrxxs/seojuwon)
+[![wavecrypt](https://github-readme-stats.vercel.app/api/pin/?username=4ndrxxs&repo=wavecrypt&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00D4FF&text_color=F0F0FF&cache_seconds=86400)](https://github.com/4ndrxxs/wavecrypt)
 
-<a href="https://github.com/4ndrxxs/HBscore">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=4ndrxxs&repo=HBscore&theme=transparent&hide_border=true&title_color=A855F7&icon_color=00D4FF&text_color=F0F0FF" width="49%" />
-</a>
-<a href="https://github.com/4ndrxxs/GBS-Gradient_descent_and_Deep_Learning">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=4ndrxxs&repo=GBS-Gradient_descent_and_Deep_Learning&theme=transparent&hide_border=true&title_color=A855F7&icon_color=00D4FF&text_color=F0F0FF" width="49%" />
-</a>
+[![HBscore](https://github-readme-stats.vercel.app/api/pin/?username=4ndrxxs&repo=HBscore&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00D4FF&text_color=F0F0FF&cache_seconds=86400)](https://github.com/4ndrxxs/HBscore)
+[![GBS-Gradient_descent_and_Deep_Learning](https://github-readme-stats.vercel.app/api/pin/?username=4ndrxxs&repo=GBS-Gradient_descent_and_Deep_Learning&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00D4FF&text_color=F0F0FF&cache_seconds=86400)](https://github.com/4ndrxxs/GBS-Gradient_descent_and_Deep_Learning)
 
 </div>
 
