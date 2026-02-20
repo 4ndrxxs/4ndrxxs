@@ -26,8 +26,8 @@ interests: [AI/ML, Web Development, Cryptography, Mathematical Modeling]
 
 - 🏆 **Ministry of Science and ICT** — Minister Award ×2
 - 🤖 **Google AI Professional Certificate**
-- 🎓 Student at **Gyeonggi Buk Science High School**
-- 🌐 Portfolio: [seojuwon.com](https://seojuwon.com)
+- 🔬 Currently researching **Deep Learning & Mathematical Modeling**
+- 🚀 Building intelligent systems at the intersection of **AI × Web × Crypto**
 
 ---
 
