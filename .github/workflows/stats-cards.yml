@@ -1,4 +1,4 @@
-name: Generate Profile Summary Cards
+name: Generate Metrics
 
 on:
   schedule:
@@ -6,26 +6,49 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-node@v4
+      # Profile Details
+      - name: Full-year calendar
+        uses: lowlighter/metrics@latest
         with:
-          node-version: 20
+          filename: metrics/profile.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: 4ndrxxs
+          base: header, activity, community, repositories
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          config_timezone: Asia/Seoul
+          config_display: large
 
-      - name: Generate Cards
-        run: npx github-profile-summary-cards@2 --username 4ndrxxs --theme github_dark --output ./profile-summary-card-output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Languages
+      - name: Languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: 4ndrxxs
+          base: ""
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_categories: programming
+          plugin_languages_limit: 8
+          plugin_languages_colors: "0:00D4FF, 1:A855F7, 2:FF3CAC, 3:F7DF1E, 4:3178C6, 5:E34F26, 6:0175C2, 7:02569B"
+          config_timezone: Asia/Seoul
 
-      - name: Commit & Push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git diff --staged --quiet || git commit -m "chore: update profile summary cards"
-          git push
+      # Habits
+      - name: Coding habits
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/habits.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: 4ndrxxs
+          base: ""
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_from: 200
+          config_timezone: Asia/Seoul

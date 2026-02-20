@@ -118,25 +118,16 @@ Minister Award ×2<br>
 
 <div align="center">
 
-<img src="./profile-summary-card-output/0-profile-details.svg" width="100%" />
+<img src="./metrics/profile.svg" width="100%" />
 
-<img src="./profile-summary-card-output/3-stats.svg" width="49%" />
-<img src="./profile-summary-card-output/4-productive-time.svg" width="49%" />
-
-<img src="./profile-summary-card-output/1-repos-per-language.svg" width="49%" />
-<img src="./profile-summary-card-output/2-most-commit-language.svg" width="49%" />
+<img src="./metrics/languages.svg" width="49%" />
+<img src="./metrics/habits.svg" width="49%" />
 
 <br>
 
 <img src="https://streak-stats.demolab.com?user=4ndrxxs&hide_border=true&background=0D1117&ring=A855F7&fire=FF3CAC&currStreakLabel=00D4FF&sideLabels=A855F7&currStreakNum=F0F0FF&sideNums=F0F0FF&dates=7878A0&stroke=7878A0" width="55%" />
 
 </div>
-
----
-
-## 📈 Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=4ndrxxs&bg_color=0D1117&color=A855F7&line=00D4FF&point=FF3CAC&area=true&area_color=A855F720&hide_border=true&custom_title=Contribution%20Timeline" width="100%" />
 
 ---
 
