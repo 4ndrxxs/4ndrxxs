@@ -16,22 +16,31 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
 
-<table>
-<tr><td>
+```python
+class JuwonSeo:
+    def __init__(self):
+        self.name = "Juwon Seo"
+        self.school = "Gyeonggi Buk Science High School"
+        self.role = "AI Engineer × Creative Developer"
+        self.portfolio = "https://seojuwon.com"
 
-**`> whoami`**
+    @property
+    def achievements(self):
+        return [
+            "🏆 Ministry of Science and ICT Award ×2",
+            "🤖 Google AI Professional Certificate",
+            "🎓 Gyeonggi Buk Science High School Student",
+        ]
 
-🎓 &nbsp; Student at **Gyeonggi Buk Science High School**
-🤖 &nbsp; Certified **Google AI Professional**
-🏆 &nbsp; **Ministry of Science and ICT** — Minister Award ×2
-🌐 &nbsp; Portfolio → [**seojuwon.com**](https://seojuwon.com)
-
-**`> interests`**
-
-`Artificial Intelligence` · `Deep Learning` · `Web Development` · `Cryptography` · `Mathematical Modeling`
-
-</td></tr>
-</table>
+    @property
+    def interests(self):
+        return [
+            "Artificial Intelligence & Deep Learning",
+            "Web × AI Integration",
+            "Cryptography & Security",
+            "Mathematical Modeling",
+        ]
+```
 
 ---
 
