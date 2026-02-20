@@ -156,6 +156,10 @@ interests: [AI/ML, Web Development, Cryptography, Mathematical Modeling]
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Made_with-❤️_&_AI-A855F7?style=for-the-badge" />
+
+<br><br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:A855F7,100:FF3CAC&height=120&section=footer" width="100%" />
 
 </div>
