@@ -9,6 +9,9 @@
 <a href="https://seojuwon.com"><img src="https://img.shields.io/badge/Portfolio-seojuwon.com-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="mailto:contact@seojuwon.com"><img src="https://img.shields.io/badge/Email-Contact_Me-FF3CAC?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/4ndrxxs"><img src="https://img.shields.io/badge/GitHub-4ndrxxs-00D4FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/seojuwon/"><img src="https://img.shields.io/badge/LinkedIn-seojuwon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://huggingface.co/seojuwon"><img src="https://img.shields.io/badge/Hugging_Face-seojuwon-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+<a href="https://www.kaggle.com/juwon0622"><img src="https://img.shields.io/badge/Kaggle-juwon0622-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=4ndrxxs&color=FF3CAC&style=for-the-badge&label=VISITORS"/>
 
 </div>
