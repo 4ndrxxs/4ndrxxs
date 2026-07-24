@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=40&lines=%F0%9F%A7%A0+Training+AI+models+%26+building+intelligent+systems;%F0%9F%94%AE+Exploring+the+frontier+of+AI+%C3%97+Web+%C3%97+Crypto;%F0%9F%8F%86+2x+Minister+of+Science+%26+ICT+Award+Winner;%F0%9F%8E%93+Gyeonggi+Buk+Science+High+School+Student;%E2%9C%A8+Certified+Google+AI+Professional)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=40&lines=%F0%9F%A7%A0+Training+AI+models+%26+building+intelligent+systems;%F0%9F%94%AE+Exploring+the+frontier+of+AI+%C3%97+Web+%C3%97+Crypto;%F0%9F%8F%85+AAAI+Special+Award+%40+Regeneron+ISEF+2026;%F0%9F%8F%86+2x+Minister+of+Science+%26+ICT+Award+Winner;%F0%9F%8E%93+Gyeonggi+Buk+Science+High+School+Student;%E2%9C%A8+Certified+Google+AI+Professional)](https://git.io/typing-svg)
 
 <br>
 
